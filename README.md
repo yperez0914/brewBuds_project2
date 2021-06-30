@@ -2,7 +2,7 @@
 
 ## Inspiration
 <br>
-We are marketing analysts for the “Holy Ale Brewery” trying to convince the leaders of this organization in which 5 cities they should open new breweries. Using the data above we will create a dashboard that explains which cities would be an investment opportunity based on population and median household income. *To view our dashboard, run the app.py file in your terminal.
+We are marketing analysts for the “Holy Ale Brewery” trying to convince the leaders of this organization in which 5 cities they should open new breweries. Using the data above we will create a dashboard that explains which cities would be an investment opportunity based on population and median household income. To view our dashboard, run the app.py file in your terminal.
 <br>
 
 ## Data Sources
